@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+
+# Strategy Cache & Output
+images/
+images2/
+*.pkl
+*.png
+*.html
+*.txt
+*.log
+
+# Scratch scripts
+locate_images.py
+download_images.py
+fetch_wechat.py
+parse_html.py
+parse_html2.py

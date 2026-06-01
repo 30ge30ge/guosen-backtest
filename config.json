@@ -1,0 +1,9 @@
+{
+  "start_date": "2018-01-01",
+  "end_date": "2023-12-31",
+  "benchmark": "000905.XSHG",
+  "stock_pool_limit": 60,
+  "final_portfolio_limit": 30,
+  "transaction_cost_buy": 0.001,
+  "transaction_cost_sell": 0.002
+}
