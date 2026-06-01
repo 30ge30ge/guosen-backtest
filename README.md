@@ -99,3 +99,10 @@ rqalpha update_bundle
 python main.py
 ```
 回测结束后，终端会打印出经典的 **RQAlpha 绩效分析报告**，且会自动在您的**电脑桌面上生成净值对比走势图**：**`策略回测净值业绩图.png`**。
+
+---
+
+## 📈 Star 历史曲线
+
+[![Star History Chart](https://api.star-history.com/svg?repos=30ge30ge/guosen-backtest&type=Date)](https://star-history.com/#30ge30ge/guosen-backtest&Date)
+
