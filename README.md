@@ -1,9 +1,11 @@
 # 基于风险预算的中证500指数增强复合策略
 > Guosen CSD 500 Index Enhancement Strategy based on Risk Budgeting Model
 
+> [!IMPORTANT]
+> **研究思路来源**：[【国信金工】基于风险预算的中证500指数增强策略 (微信公众号原文)](https://mp.weixin.qq.com/s/1tC88dO9AqBOH4sS0a5hkg)
+
 本项目是对国信证券金融工程经典研究报告 **《基于风险预算的中证500指数增强策略》** 的量化研究复现与本地仿真框架。策略旨在打破公募增强基金同质化及基本面因子选股能力边际衰减的困境，通过资产配置的视角，利用风险预算（Risk Budgeting）模型将主动量化选股与传统多因子增强有机复合。
 
-*   **研究思路来源**：[【国信金工】基于风险预算的中证500指数增强策略 (微信公众号原文)](https://mp.weixin.qq.com/s/1tC88dO9AqBOH4sS0a5hkg)
 
 ---
 
